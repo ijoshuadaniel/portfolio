@@ -32,8 +32,8 @@ function Liveproject() {
           <OnlineProject
             name='IP Finder'
             description='This project is built using react as frontend , Used Ip API from ipapi.co'
-            git='https://github.com/ijoshuadaniel/urlshortner'
-            url='https://url.joshuadaniel.me'
+            git='https://github.com/ijoshuadaniel/portfolio'
+            url='https://ip.joshuadaniel.me'
           />
         </Row>
       </Container>

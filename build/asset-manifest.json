@@ -1,21 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.545bcbfc.chunk.css",
-    "main.js": "/static/js/main.3b5b0897.chunk.js",
-    "main.js.map": "/static/js/main.3b5b0897.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.03b7502b.js",
-    "runtime-main.js.map": "/static/js/runtime-main.03b7502b.js.map",
+    "main.css": "/static/css/main.2923fc1c.chunk.css",
+    "main.js": "/static/js/main.8b2162e2.chunk.js",
+    "main.js.map": "/static/js/main.8b2162e2.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.140f155a.js",
+    "runtime-main.js.map": "/static/js/runtime-main.140f155a.js.map",
     "static/css/2.1a02f21c.chunk.css": "/static/css/2.1a02f21c.chunk.css",
-    "static/js/2.2f0243b8.chunk.js": "/static/js/2.2f0243b8.chunk.js",
-    "static/js/2.2f0243b8.chunk.js.map": "/static/js/2.2f0243b8.chunk.js.map",
-    "static/js/3.ca42932c.chunk.js": "/static/js/3.ca42932c.chunk.js",
-    "static/js/3.ca42932c.chunk.js.map": "/static/js/3.ca42932c.chunk.js.map",
+    "static/js/2.ee546655.chunk.js": "/static/js/2.ee546655.chunk.js",
+    "static/js/2.ee546655.chunk.js.map": "/static/js/2.ee546655.chunk.js.map",
+    "static/js/3.1c3bc271.chunk.js": "/static/js/3.1c3bc271.chunk.js",
+    "static/js/3.1c3bc271.chunk.js.map": "/static/js/3.1c3bc271.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.1a02f21c.chunk.css.map": "/static/css/2.1a02f21c.chunk.css.map",
-    "static/css/main.545bcbfc.chunk.css.map": "/static/css/main.545bcbfc.chunk.css.map",
-    "static/js/2.2f0243b8.chunk.js.LICENSE.txt": "/static/js/2.2f0243b8.chunk.js.LICENSE.txt",
+    "static/css/main.2923fc1c.chunk.css.map": "/static/css/main.2923fc1c.chunk.css.map",
+    "static/js/2.ee546655.chunk.js.LICENSE.txt": "/static/js/2.ee546655.chunk.js.LICENSE.txt",
     "static/media/android.44b3e1bf.svg": "/static/media/android.44b3e1bf.svg",
     "static/media/apple.df41424f.svg": "/static/media/apple.df41424f.svg",
+    "static/media/bridalmakeup.c38383e6.png": "/static/media/bridalmakeup.c38383e6.png",
     "static/media/css.9c7b2fc9.svg": "/static/media/css.9c7b2fc9.svg",
     "static/media/dart.1974a99a.svg": "/static/media/dart.1974a99a.svg",
     "static/media/docker.f2812b20.svg": "/static/media/docker.f2812b20.svg",
@@ -52,10 +53,10 @@
     "static/media/yogimudra.0eda97b8.jpg": "/static/media/yogimudra.0eda97b8.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.03b7502b.js",
+    "static/js/runtime-main.140f155a.js",
     "static/css/2.1a02f21c.chunk.css",
-    "static/js/2.2f0243b8.chunk.js",
-    "static/css/main.545bcbfc.chunk.css",
-    "static/js/main.3b5b0897.chunk.js"
+    "static/js/2.ee546655.chunk.js",
+    "static/css/main.2923fc1c.chunk.css",
+    "static/js/main.8b2162e2.chunk.js"
   ]
 }
