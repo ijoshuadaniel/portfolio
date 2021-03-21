@@ -1,0 +1,35 @@
+$babyPowder : #FDFFFC;
+$oxfordBlue : #02182B;
+$persianGreen : #18A999;
+
+.intro-top{
+    position: absolute;
+    width: 100%;
+    top: 110vh;
+    margin-bottom: 100px;
+    
+}
+
+.intro-pragraph{
+    h2{
+        color: $persianGreen;
+        font-weight: bold;
+    }
+    p{
+        margin-top: 10px;
+        text-align: justify;
+    }
+}
+
+@media only screen and (max-width:699px){
+    .intro-pragraph{
+        h2{
+            text-align: center;
+            margin-top: 10px;
+            color: $persianGreen;
+            font-weight: bold;
+            font-size: 16px;
+        }
+      
+    }
+}

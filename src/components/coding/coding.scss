@@ -1,0 +1,38 @@
+.coding-top {
+  position: absolute;
+  top: 340vh;
+  margin-bottom: 100px;
+  width: 100%;
+}
+
+.coding-lang {
+  margin-top: 50px;
+  img {
+    width: 100px;
+    height: 100px;
+    box-shadow: 5px 10px 10px rgba(black, 0.2);
+    padding: 20px;
+    border-radius: 10px;
+  }
+  img:hover {
+    box-shadow: 5px 10px 10px rgba(black, 0.5);
+  }
+}
+
+@media only screen and (max-width: 699px) {
+  .coding-top {
+    position: absolute;
+    top: 570vh;
+    margin-bottom: 100px;
+    width: 100%;
+  }
+  .coding-lang {
+    margin-top: 50px;
+    padding: 30px;
+
+    img {
+      width: 80px;
+      height: 80px;
+    }
+  }
+}

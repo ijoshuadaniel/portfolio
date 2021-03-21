@@ -1,0 +1,22 @@
+.live-project {
+  width: 100%;
+  margin-top: 50px;
+  position: absolute;
+  top: 225vh;
+  margin-bottom: 50px;
+
+  button {
+    background-color: transparent;
+    border: 1px solid black;
+    border-radius: 20px;
+    padding: 5px 8px;
+    outline: none;
+  }
+}
+
+@media only screen and (max-width: 699px) {
+  .live-project {
+    position: absolute;
+    top: 380vh;
+  }
+}

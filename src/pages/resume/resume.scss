@@ -1,0 +1,38 @@
+$babyPowder : #FDFFFC;
+$oxfordBlue : #02182B;
+$persianGreen : #18A999;
+
+.resume-top{
+    padding: 20px;
+    margin-top: 80px;
+    margin-bottom: 80px;
+    a{
+        color: black;
+        &:hover{
+        color: black;
+        }
+    }
+}
+
+.persianGreen{
+    color: $persianGreen;
+}
+
+.heading{
+    text-decoration: underline;
+}
+.border_right{
+    border-right: 1px solid lightgray;
+}
+
+@media only screen and (max-width:699px){
+    .border_right{
+        border-right: none;
+    }
+    h3{
+        font-size: 18px;
+    }
+    h6{
+        font-size: 14px;
+    }
+}
